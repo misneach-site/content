@@ -2,10 +2,14 @@
 The last chunk of the conversation is mostly an exchange of pleasantries that will be useful in a large amount of exchanges, so let's take a look:
 
 - Customer
-> Go raibh maith agat! Slán (Thank you! Goodbye)
+> Go raibh maith agat! Slán
+> Guh rev mah ah-gut! Slawn.
+> Thank you! Goodbye
 
 - Barista
-> Tá fáilte romhat, slán go fóill! (You're welcome, goodbye!)
+> Tá fáilte romhat, slán go fóill!
+> Taw FAWL-chuh ruh-ut, slawn guh foh-ill!
+> You're welcome, goodbye!
 
 This is a simple conversation wrap up. `Go raibh maith agat` means `thank you`. If we were to translate this literally it would be something along the lines of "may you have goodness", but we just mean it as "thank you". In text speak, you will likely see this abbreviated to `grma`.
 

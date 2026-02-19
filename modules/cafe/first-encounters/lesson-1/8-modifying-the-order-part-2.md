@@ -3,10 +3,14 @@
 OK, we looked at one deviation from the flow of the conversation, but, unfortunately there are other things that can go wrong with the order! Let's take a look at another case where a problem arises.
 
 - customer
-> I ndáiríre, an bhfuil bainne coirce agaibh? (Actually, do you have oat milk?)
+> I ndáiríre, an bhfuil bainne coirce agaibh?
+> In NAW-ree-reh, un will BAN-yuh KIR-keh uh-gwiv?
+> Actually, do you have oat milk?
 
 - barista
-> Faroar, níl bainne coirce againn inniu. Ach, tá bainne almóinn nó bainne soighe againn (Unfortunately, we don't have oat milk today. But, we do have almond or soy milk)
+> Faroar, níl bainne coirce againn inniu. Ach, tá bainne almóinn nó bainne soighe againn
+> FAR-oar, neel BAN-yuh KIR-keh ah-gwin in-YOO. Akh, taw BAN-yuh al-MOAN noh BAN-yuh SOY-eh ah-gwin.
+> Unfortunately, we don't have oat milk today. But, we do have almond or soy milk
 
 In this case, there's no oat milk available, so the barista informs the customer. `Faroar` simply means "unfortunately". Another word that you might hear instead is `drochuair`. Next up we have `níl bainne coirce againn`. Earlier, we saw `tá` used to say “yes” to `an bhfuil…?`  Here, we use `níl` to say “no”.
 
@@ -24,19 +28,25 @@ In the next sentence then we inform the customer that we have `bainne almóinn` 
 From there, the customer has a choice to make again. They can either choose the almond or soy milk, or go ahead without one of those options.
 
 - customer
-> Bainne soighe, le do thoil (Soy milk, please)
+> Bainne soighe, le do thoil
+> BAN-yuh SOY-eh, leh duh hull.
+> Soy milk, please
 
 **Or**
 
 - customer
-> Bainne almóinn, le do thoil (Almond milk, please)
+> Bainne almóinn, le do thoil
+> BAN-yuh al-MOAN, leh duh hull.
+> Almond milk, please
 
 Depending on their choice, of course!
 
 And if they choose to go ahead without, then, just like the last example, they can say:
 
 - customer
-> Sin ceart go leor (That's fine)
+> Sin ceart go leor
+> Shin kyart guh lor.
+> That's fine
 
 You've now managed to navigate your second ordering crisis! Congratulations!
 

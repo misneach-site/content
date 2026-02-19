@@ -7,10 +7,14 @@ Now, are things always that simple? Unfortunately not! There are a number of thi
 No worries at all, lets look at how they might ask that:
 
 - customer
-> I ndáiríre, an bhfuil bainne coirce agaibh? (Actually, do you have oat milk?)
+> I ndáiríre, an bhfuil bainne coirce agaibh?
+> In NAW-ree-reh, un will BAN-yuh KIR-keh uh-gwiv?
+> Actually, do you have oat milk?
 
 - barista
-> Tá, ach tá fiche cent breise air. (Yes, but it's 20 cent extra)
+> Tá, ach tá fiche cent breise air.
+> Taw, akh taw FI-heh sent BRESH-eh air.
+> Yes, but it's 20 cent extra
 
 Let’s look at what’s happening here.
 `I ndáiríre` can mean "really/seriously/actually".
@@ -24,14 +28,18 @@ After that, we want to ask if they have the oat milk. We've seen already that `b
 Now, after being informed of the extra cost, the customer needs to decide if they're willing to pay the extra 20 cent, or leave it as is. Firstly, we'll look at the positive answer:
 
 - customer
-> Cinnte! Seo duit! (Of course! Here you go!)
+> Cinnte! Seo duit!
+> KIN-cheh! Sho gwich!
+> Of course! Here you go!
 
 This now indicates that the customer is fine with the extra charge. `Cinnte` is a positive affirmation like "sure/of course". Of course, the `seo duit` here implies that the customer is in the process of handing over the money.
 
 If they decide that they don't want it, they can say:
 
 - customer
-> Sin ceart go leor (That's fine)
+> Sin ceart go leor
+> Shin kyart guh lor.
+> That's fine
 
 `Ceart go leor` is the Irish for "OK" or "fine". In text speak, you'll often see this abbreviated as `cgl`. This works as a polite refusal in the sense of "ah, that's OK then" in Irish English.
 

@@ -1,15 +1,25 @@
 # The Smallest, Easiest Conversation - Breakdown Part 2
 Now, let's move on to the next 3 lines, which are nice and straight forward:
 
+- Customer
+> Dia is Muire duit. Cupán tae, le do thoil
+> DEE-ah iss MWIR-eh gwich. Kuh-PAWN teh, leh duh hull
+> Hi, a cup of tea, please
+
 - Barista
-> Sin trí euro. Cárta nó airgead tirim? (That's three euro. Card or cash?)
+> Sin trí euro. Cárta nó airgead tirim?
+> Shin tree YUR-oh. KAR-tuh noh AR-gid TIR-im?
+> That's three euro. Card or cash?
 
 - Customer
 > Cárta
+> KAR-tuh.
+> Card
 
 - Barista
-> Seo duit! Tá an bainne agus siúcra ar an mbord sin (Here you are! The milk and sugar are on that table)
-
+> Seo duit! Tá an bainne agus siúcra ar an mbord sin
+> Sho gwich! Taw un BAN-yuh ah-gus SHOOK-ruh er un moard shin.
+> Here you are! The milk and sugar are on that table
 
 First we have `sin trí euro`. `Sin` means “that”. Here it works like “that’s”, so "that's three euro".
 
